@@ -16,6 +16,8 @@ Platforms supported
 * Amazon Linux
 * Redhat Linux
 * CentOS
+* AlmaLinux
+* Rocky Linux
 * Ubuntu (upstart, sysv fallback for >= 15.04, no systemd support)
 * Debian
 * Raspbian
